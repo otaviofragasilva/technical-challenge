@@ -17,7 +17,7 @@ export const PosterSection = styled.div`
   img {
     width: 100%;
     height: 110%;
-    object-fit: cover;
+    object-fit: fill;
     object-position: center;
     z-index: 1;
     position: relative;
